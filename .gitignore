@@ -17,10 +17,6 @@ __pycache__/
 *-ubyte
 data/
 
-# Assignment PDFs (not student work)
-README.pdf
-sparseAutoencoder_notes.pdf
-
 # Helper scripts / env
 dataset.py
 utils.py
