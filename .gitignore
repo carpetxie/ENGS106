@@ -1,1 +1,28 @@
 fashion-mnist_train.csv
+
+# OS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data and model files
+*.npy
+*.bin
+*.pt
+*.ckpt
+*.pkl
+*.gz
+*-ubyte
+data/
+
+# Assignment PDFs (not student work)
+README.pdf
+sparseAutoencoder_notes.pdf
+
+# Helper scripts / env
+dataset.py
+utils.py
+prepare.py
+environment.yml
